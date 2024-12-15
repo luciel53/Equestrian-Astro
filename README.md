@@ -1,1 +1,0 @@
-# Equestrian-Astro
