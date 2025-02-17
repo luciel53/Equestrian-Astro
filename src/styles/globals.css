@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+@font-face {
+	font-family: 'Signature';
+	src: url('/fonts/Signature.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+  }
+
+  @font-face {
+	font-family: 'CRC35';
+	src: url('/fonts/CRC35.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+  }
+
