@@ -1,5 +1,9 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
-export default defineConfig({});
+// To deploy on github pages
+export default defineConfig({
+	site: "https://luciel53.github.io/Equestrian-Astro",
+	base: "/Equestrian-Astro/",
+	output: "static",
+  });
